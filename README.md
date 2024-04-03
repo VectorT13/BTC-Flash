@@ -21,8 +21,17 @@
 8)  Transferable - Unlimited 
 9)  Converted - Yes
 
-   
-# Convert Support Network
+# How To ERAN
+1. Withdraw Any Wallet
+2. Binance to Binance Pay With Reciver Email or Pay id
+3. ByBit to ByBit pay With Reciver Email or Pay id
+4. HTX to HTX pay With Reciver Email or Pay id
+5. Gate.io to Gate.io pay With Reciver Email or Pay id
+6. KuCoin to KuCoin pay With Reciver Email or Pay id
+7. You Can Transfer Any Web3 Wallet Like MetaMask,Trust wallet ETC
+8. P2P Tread (binance, ByBit Only tested)
+
+# Swipe or Convert Support Network
 🛰️ BTC(SegWit) 
 🛰️ Lightning Network
 🛰️ TRC-20
