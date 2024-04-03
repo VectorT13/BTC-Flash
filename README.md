@@ -1,5 +1,5 @@
 # BTC-Flash
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ft.com%2Fcontent%2Fb26319f6-6cb7-4e0e-a0d9-bac71d9b8c34&psig=AOvVaw1stbJkkUdfTRBaRWujGZr6&ust=1712262220853000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjpr8XxpoUDFQAAAAAdAAAAABAE)
+![GitHub Logo](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa4dc0195-4be3-4ae8-a687-287378b310bd.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1)
 # Contact US : 
    Telegram  https://t.me/Vector_T13
 
